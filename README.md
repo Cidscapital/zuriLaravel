@@ -1,12 +1,12 @@
 # zuriLaravel
 
-#Task Title: PHP Laravel Laravel MVC Hosting
+# Task Title: PHP Laravel Laravel MVC Hosting
 
-#Create a Simple User Management system using Laravel MVC
+# Create a Simple User Management system using Laravel MVC
 
 Having the following
 
-#Controllers
+# Controllers
 
 UserController with the following methods
 
@@ -16,7 +16,7 @@ Delete user: takes in the user id from the front-end  and deletes the user based
 Get users: gets all users and passes them to the laravel blade template
  
 
-#Models
+# Models
 
 User: this model should have the following fields
 Id
@@ -24,7 +24,7 @@ Name
 Email
 phone
 
-#Views
+# iews
 
 Users.blade.php: this is the view to display all users from the getusers method of the user controller
 Edituser.blade.php: this view displays a form with current user info and possibility to edit, then a submit button
